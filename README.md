@@ -3,6 +3,7 @@
 Biel Altimira 2021-2022
 
 ## Diari
+
 11/2/2021 --- Primera quedada amb els tutors. S'ha presentat el tema principal del TDR i els objectius o idees que es tenien. Hem decidit orientar el treball de manera més pràctica al principi i treballar en el marc teòric més endavant. Pel 5 de març he de tenir plantejada la problemàtica que es vol solucionar amb Machine Learning així com la hipòtesi i l'objectiu principal del treball.
 
 20/2/2021 --- Aquesta setmana he acabat part dels exàmens que tenia pendents i he tingut un pont de quatre dies. D'aquesta manera, he aprofitat per deixar preparat l'entorn de desenvolupament, he creat els entorns virtuals amb Conda, he creat un repositori a GitHub i he refrescat els meus coneixements de Git a més d'informar-me sobre com funcionen les llibretes Jupyter, com es poden integrar amb Git i els passos a seguir per a executar un bon projecte d'anàlisi de dades. Per altra banda, he fet recerca sobre possibles problemàtiques a solucionar amb el meu projecte, en tinc vàries de pensades però al llarg d'aquests dies les aniré concretant.
@@ -22,6 +23,10 @@ Biel Altimira 2021-2022
 *
 *
 *
+
+# Contactes
+
+* [Jordi Prat Camps](https://www.linkedin.com/in/jordi-prat-camps-a9bba177/) - [Email](j.prat.camps@gmail.com)
 
 ## Dades
 
