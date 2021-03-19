@@ -12,6 +12,8 @@ Biel Altimira 2021-2022
 
 7/3/21 --- Avui he aprofitat per fer recerca i informar-me d'alguns temes que havíem decidit com a interessants. He llegit alguns papers que queden citats a les referències i ha afegit alguns contactes que podran ser d'utilitat a l'hora de buscar dades.
 
+17/3/21 --- Al llarg d'aquests dies he anat enviant correus a diferentes empreses i infraestructures per tal de que ens puguin facilitar dades per el projecte. Quedem doncs a l'espera de la resposta que determinarà el projecte que durem a terme.
+
 ## Idees
 
 1. En funció del que es menja/estil de vida, predir possibles malalties i recomenar maneres de reduir-ne el risc.
