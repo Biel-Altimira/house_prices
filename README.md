@@ -14,6 +14,8 @@ Biel Altimira 2021-2022
 
 17/3/21 --- Al llarg d'aquests dies he anat enviant correus a diferentes empreses i infraestructures per tal de que ens puguin facilitar dades per el projecte. Quedem doncs a l'espera de la resposta que determinarà el projecte que durem a terme.
 
+26/3/21 --- Tercera quedada amb els tutors abans de setmana santa. Hem discutit les respostes dels emails que haviem anat rebent el llarg de la setmana i hem cregut convenient que per tal de començar a practicar i veient que les respostes dels emails no proporcionaven dades de valor, utilitzar alguns sets de dades ja disponibles a la pagina de kaggle.
+
 ## Idees
 
 1. En funció del que es menja/estil de vida, predir possibles malalties i recomenar maneres de reduir-ne el risc.
