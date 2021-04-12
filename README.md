@@ -16,6 +16,8 @@ Biel Altimira 2021-2022
 
 26/3/21 --- Tercera quedada amb els tutors abans de setmana santa. Hem discutit les respostes dels emails que haviem anat rebent el llarg de la setmana i hem cregut convenient que per tal de començar a practicar i veient que les respostes dels emails no proporcionaven dades de valor, utilitzar alguns sets de dades ja disponibles a la pagina de kaggle. Al llarg d'aquesta tarda he anat treballant amb el dataset dels preus de l'habitatge i he començat a programar.
 
+12/4/21 --- Ja després de setmana santa he anat treballant en el projecte, l'anàlisi de les dades ha quedat acabat, el training set està lliure de valors NaN i queda crear nous atributs amb millor correlació, treballar en els atributs que contenen text i fer el mateix pel test set. Més tard simplement caldrà entrenar el model i ajustar-ne els paràmetres.
+
 ## Idees
 
 1. En funció del que es menja/estil de vida, predir possibles malalties i recomenar maneres de reduir-ne el risc.
