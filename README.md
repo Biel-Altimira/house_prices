@@ -16,6 +16,8 @@ Biel Altimira 2021-2022
 
 26/3/21 --- Tercera quedada amb els tutors abans de setmana santa. Hem discutit les respostes dels emails que haviem anat rebent el llarg de la setmana i hem cregut convenient que per tal de començar a practicar i veient que les respostes dels emails no proporcionaven dades de valor, utilitzar alguns sets de dades ja disponibles a la pagina de kaggle. Al llarg d'aquesta tarda he anat treballant amb el dataset dels preus de l'habitatge i he començat a programar.
 
+15/4/21 --- El projecte ja està més avançat, al llarg de la setmana he anat comentant els dubtes al Joaquim i estic treballant en la neteja de dades.
+
 ## Idees
 
 1. En funció del que es menja/estil de vida, predir possibles malalties i recomenar maneres de reduir-ne el risc.
