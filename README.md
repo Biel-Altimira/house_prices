@@ -39,9 +39,8 @@ Biel Altimira 2021-2022
 # Contactes
 
 * [Jordi Prat Camps](https://www.linkedin.com/in/jordi-prat-camps-a9bba177/) - [Email](mailto:j.prat.camps@gmail.com)
-* [Fundació sobre l'alimentació Alicia](https://www.alicia.cat/) - Telèfon --- +34 938 759 402
-* [Eurecat](https://eurecat.org/ambits-de-coneixement/big-data/) - Possible centre de recerca d'on trobar dades o problemàtiques pel desenvolupament del projecte.
-* [Projecte Althaia](https://www.althaia.cat/althaia/ca/corporatiu/comunicacio/noticies/althaia-lidera-un-estudi-multicentric-per-avaluar-eficacia-de-artterapia-en-la-millora-de-la-qualitat-de-vida-de-les-persones-amb-cancer) - [Email](mailto:artterapia@althaia.cat.) 
+* [Andres Ortega Klein](https://twitter.com/andresortegak?lang=en)
+* [Ramon López de Mántaras](https://www.linkedin.com/in/ramonlopezdemantaras/?originalSubdomain=es) - [Email](mailto:mantaras@iiia.csic.es)
 
 
 ## Dades
