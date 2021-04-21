@@ -20,7 +20,7 @@ Biel Altimira 2021-2022
 
 15/4/21 --- El projecte ja està més avançat, al llarg de la setmana he anat comentant els dubtes al Joaquim i estic treballant en la neteja de dades.
 
-
+21/4/21 --- El llarg d'aquesta setmana he seguit treballant en el projecte. Actualment estic intentant treballar amb les dades categòriques per passar-les a numeriques ja que el model només accepta dades d'aquest tipus. Per altra banda, he contactat amb Andres Ortega Klein per una entrevista en un futur i he aconseguit el contacte de Ramon López de Mántaras per una entrevista molt interessant.
 
 ## Idees
 
