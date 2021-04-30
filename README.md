@@ -22,6 +22,8 @@ Biel Altimira 2021-2022
 
 21/4/21 --- El llarg d'aquesta setmana he seguit treballant en el projecte. Actualment estic intentant treballar amb les dades categòriques per passar-les a numeriques ja que el model només accepta dades d'aquest tipus. Per altra banda, he contactat amb Andres Ortega Klein per una entrevista en un futur i he aconseguit el contacte de Ramon López de Mántaras per una entrevista molt interessant.
 
+30/4/21 --- Ja he rebut els llibres dels autors que m'interessa entrevistar i els he començat a llegir per preparar la part teòrica del treball. Per altra banda, ja he començat a crear i entrenar el model que ara mateix dona una precisió del 70-80%.
+
 ## Idees
 
 1. En funció del que es menja/estil de vida, predir possibles malalties i recomenar maneres de reduir-ne el risc.
