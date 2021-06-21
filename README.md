@@ -26,6 +26,10 @@ Biel Altimira 2021-2022
 
 4/6/21 --- Ha passat quasi un mes sencer des de que he anat treballant en el projecte. Avui hem dut a terme una reunió de planificació per plantejar el projecte de cara a l'estiu. Aprofitant que ja he acabat els dos llibres i n'he extret coneixements interessants, he contactat amb les persones que tenia pensat entrevistar per més endavant. Altrament, hem decidit que en acabar el projecte pràctic de la regressió dels pisos de Boston realitzaré una petita presentació per a veure els aprenentatges que n'he extret i començar a treballar en un segon cas més complex i original. Per altra banda, també començarem a treballar en la part teòrica que ja hem estructurat més o menys tot i que s'ha d'acabar de perfilar.
 
+13/6/21 --- Durant al dia d'avui, he començat a treballar en el document, he organitzat i creat els diferents apartats que tractare en el meu marc teòric i he realitzat una petita llista en cada apartat sobre tots els conceptes que vull definir, així doncs, seguint les directrius dels tutors, he deixat tot el projecte a nivell teòric organitzat. Altrament, vaig contactar per realitzar les entrevistes i he quedat ja amb un dia amb tots ells.
+
+
+
 ## Idees
 
 1. En funció del que es menja/estil de vida, predir possibles malalties i recomenar maneres de reduir-ne el risc.
