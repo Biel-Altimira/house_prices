@@ -28,7 +28,7 @@ Biel Altimira 2021-2022
 
 13/6/21 --- Durant al dia d'avui, he començat a treballar en el document, he organitzat i creat els diferents apartats que tractare en el meu marc teòric i he realitzat una petita llista en cada apartat sobre tots els conceptes que vull definir, així doncs, seguint les directrius dels tutors, he deixat tot el projecte a nivell teòric organitzat. Altrament, vaig contactar per realitzar les entrevistes i he quedat ja amb un dia amb tots ells.
 
-
+21/6/21 --- Acabades les entrevistes a Andrés Ortega i Jordi Prat. En el projecte pràctic estic comparant diferents models abans de triar el més adequat i començar a tocar els hyperparàmetres.
 
 ## Idees
 
@@ -72,3 +72,4 @@ CABINET OFFICE, Government of Japan: Society 5.0. npainternational@jinji.go.jp. 
 ORTEGA, Andrés: Geopolítica de la ética en Inteligencia Artificial. aortega@rielcano.org. 2020.
 ORTEGA, Andrés: Hacia un régimen europeo de control de la Inteligencia Artificial. aortega@rielcano.org. 2021.
 ORTEGA, Andrés: Sociedad 5.0: el concepto japonés para una sociedad superinteligente. aortega@rielcano.org. 2019.
+BROWNLEE, Jason: How To Compare Machine Learning Algorithms in Python with scikit-learn. jason.brownlee05@gmail.com 2016
