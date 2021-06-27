@@ -30,6 +30,8 @@ Biel Altimira 2021-2022
 
 21/6/21 --- Acabades les entrevistes a Andrés Ortega i Jordi Prat. En el projecte pràctic estic comparant diferents models abans de triar el més adequat i començar a tocar els hyperparàmetres.
 
+26/6/21 --- En els dies pasats m'he estat informant més sobre diferents conceptes del Machine Learning com la Cross Validation, diferents models regularitzats com Lasso o Ridge i diferents aplicacions del llenguatge Python. D'aquesta manera, he vist que molts aspectes del projecte eren poc òptims i he creat un nou fitxer reutilitzant algunes funcions però també creant-ne de noves per refer algunes parts. Així doncs, he arribat al mateix punt anterior d'una manera més sencilla i amb uns millors resultats, obtenint així una precisió entre el 85% i el 90%.
+
 ## Idees
 
 1. En funció del que es menja/estil de vida, predir possibles malalties i recomenar maneres de reduir-ne el risc.
