@@ -32,6 +32,10 @@ Biel Altimira 2021-2022
 
 26/6/21 --- En els dies pasats m'he estat informant més sobre diferents conceptes del Machine Learning com la Cross Validation, diferents models regularitzats com Lasso o Ridge i diferents aplicacions del llenguatge Python. D'aquesta manera, he vist que molts aspectes del projecte eren poc òptims i he creat un nou fitxer reutilitzant algunes funcions però també creant-ne de noves per refer algunes parts. Així doncs, he arribat al mateix punt anterior d'una manera més sencilla i amb uns millors resultats, obtenint així una precisió entre el 85% i el 90%.
 
+3/8/21 --- Avui he realitzat la entrevista amb Ramon Lopez de Mantaras, hem estat parlant durant una hora i hem discutit aspectes del treball i del machine learning i IA en general. En aquests útims dies he ralitzat dos reunions amb els tutors per deixar clara l'estructura del treball i com seguir treballant de cara a l'estiu.
+
+12/8/21 --- Endinsats ja en l'estiu he acabat els dos primers capítols del treball escrit. La fenia d'aquestes últimes setmanes ha estat de bàsicament anar redactant i formar-me sobre el tema. Un cop acabats ja aquests dos capítols, he tornat a treballar en el projecte pràctic per despres redactar el capítol sobre machine learning.
+
 ## Idees
 
 1. En funció del que es menja/estil de vida, predir possibles malalties i recomenar maneres de reduir-ne el risc.
