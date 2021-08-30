@@ -36,6 +36,8 @@ Biel Altimira 2021-2022
 
 12/8/21 --- Endinsats ja en l'estiu he acabat els dos primers capítols del treball escrit. La fenia d'aquestes últimes setmanes ha estat de bàsicament anar redactant i formar-me sobre el tema. Un cop acabats ja aquests dos capítols, he tornat a treballar en el projecte pràctic per despres redactar el capítol sobre machine learning.
 
+30/8/21 --- Ja he tornat de vacances i he començat a redactar els principals conceptes més bàsics del machine learning. He anat ajustant les parts ja escrites seguint els suggeriments dels tutors i he continuat treballant en el projecte pr
+
 ## Idees
 
 1. En funció del que es menja/estil de vida, predir possibles malalties i recomenar maneres de reduir-ne el risc.
